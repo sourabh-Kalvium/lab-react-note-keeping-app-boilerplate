@@ -1,0 +1,20 @@
+.container{
+  
+    display: flex;
+    height: 400px;
+}
+
+.input textarea{
+   height: 300px;
+   background-color: violet;
+}
+.output{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.output-text{
+    height: 305px;
+    background-color: rgb(73, 72, 72);
+    color: white;
+}
